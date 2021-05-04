@@ -3,7 +3,7 @@
 This is a solid workshop that can be both taught as a stand-alone workshop or as part of the Python track on the digital institutes.
 
 ## Credits
-This workshop was co-written by Rafael Davis Portela ( @rafadavis ) and Patrick Smyth ( @smythp ).
+This workshop was co-written by [Rafael Davis Portela](https://github.com/rafadavis) and [Patrick Smyth](https://github.com/smythp).
 
 ## Workshops
 It was first thaught at CUNY GC by Rafael Davis Portela in the Spring of 2021 as a two hour online syncronous workshop.
